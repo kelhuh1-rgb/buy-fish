@@ -1,0 +1,98 @@
+.head{
+    background-image: url(https://avatars.mds.yandex.net/i?id=576bd8d442bf8024f365285de1161b9b_l-5543432-images-thumbs&n=13);
+    background-blend-mode:hard-light;
+    background-size:cover;
+    background-position: top;
+    height: 100vh;
+    background-color: rgb(173, 170, 185);
+    padding-top: 300px;
+    padding-left: 200px;
+    margin-bottom: -32px;
+}
+h1{
+    text-align: center;
+    margin-top: 0px ;
+    justify-content: center;
+    display: flex;
+    color: rgb(7, 27, 27);
+    font-size: 100px ;
+}
+p{
+    padding: 50px;
+    font-size: xx-large;
+    background-color: rgb(229, 230, 230);
+}
+
+div{
+    background-color: rgb(229, 230, 230);
+    margin-left: 1;
+    margin-top: -px;
+    
+    padding: px;
+    padding-top: 10px;
+    
+}
+.Card1{
+    display: inline-block;
+    background: aliceblue;
+    overflow: hidden;
+    box-shadow: 0 4px 12px;
+    border-radius: 12px;
+    transition: transform 0.3s ease;
+    margin-left: 80px;
+}
+.Card1:hover{
+     transform: scale(1.1, 1.1);
+}
+.fish2{
+    border-radius: 20px;
+    border-color: black;
+    margin-top: -10px;
+}
+.Card1text{
+    text-align: center;
+    font-size: 40px;
+}
+.Card2{
+    margin-left: 80px;
+    display: inline-block;
+    background: aliceblue;
+    overflow: hidden;
+    box-shadow: 0 4px 12px;
+    border-radius: 12px;
+    transition: transform 0.3s ease;
+}
+.Card2:hover{
+     transform: scale(1.1, 1.1);
+}
+.fish3{
+    margin-top: -10px;
+    border-radius: 20px;
+    border-color: black;
+    
+}
+.Card2text{
+    text-align: center;
+    font-size: 40px;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(top, rgb(35, 170, 170), cadetblue)
+
+}
+video{
+    width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 10px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+    
+}
+footer{
+    background-color: rgb(39, 39, 39);
+    margin: -5px;
+    padding: 10px;
+    color: aliceblue;
+
+}
