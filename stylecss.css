@@ -9,6 +9,12 @@
     padding-left: 200px;
     margin-bottom: -32px;
 }
+a{
+    margin-left: 600px;
+}
+.Call{
+    margin-left:80px;
+}
 h1{
     text-align: center;
     margin-top: 0px ;
@@ -94,5 +100,6 @@ footer{
     margin: -5px;
     padding: 10px;
     color: aliceblue;
+
 
 }
