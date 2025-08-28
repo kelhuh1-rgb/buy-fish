@@ -68,12 +68,15 @@ div{
     border-radius: 12px;
     transition: transform 0.3s ease;
 }
-@media (max-width: 480px){
+@media (max-width: 560px){
     .Card2{
-        margin-top: 20px;
+        margin-top: 50px;
     }
     .Call{
         margin-left: -20px;
+    }
+    a{
+    margin-left: 30vw;
     }
 }
 .Card2:hover{
@@ -111,5 +114,6 @@ footer{
 
 
 }
+
 
 
