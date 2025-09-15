@@ -12,6 +12,43 @@
 a{
     margin-left: 40%;
 }
+.lan{
+    background-color: rgb(195, 195, 195);
+    color: black;
+    border-radius: 5px;
+    margin: 30px;
+    height: 50px;
+    padding-right: px;
+    font-size: 20px;
+    display: inline-block;
+    margin-left: 500px;
+    margin-right: -700px;
+}
+.en{
+    color: black;
+    margin: 20px;
+}
+.lan:hover{
+    background-color: rgb(98, 98, 98);
+}
+.lang{
+    background-color: rgb(188, 188, 188);
+    color: rgb(30, 29, 29);
+    border-radius: 5px;
+    margin: x;
+    height: 50px;
+    font-size: 20px;
+    display: inline-block;
+    margin-right: 100px;
+    margin-left: 800px;
+}
+.lang:hover{
+    background-color: rgb(98, 98, 98);
+}
+.kaz{
+    color: black;
+    margin: 20px;
+}
 .Call{
     margin-left:80px;
 }
@@ -68,7 +105,7 @@ div{
     border-radius: 12px;
     transition: transform 0.3s ease;
 }
-@media (max-width: 760px){
+@media (max-width: 480px){
     .Card2{
         margin-top: 50%;
     }
@@ -78,7 +115,14 @@ div{
     a{
     margin-left: 30vw;
     }
+    .lang{
+        margin-right: 10px;
+        height: 80px;
+    }
+
 }
+    
+
 .Card2:hover{
      transform: scale(1.1, 1.1);
 }
@@ -112,8 +156,8 @@ footer{
     padding: 10px;
     color: aliceblue;
 
-
 }
+
 
 
 
