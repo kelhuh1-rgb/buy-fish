@@ -1,12 +1,12 @@
 .head{
-    background-image: url(https://avatars.mds.yandex.net/i?id=576bd8d442bf8024f365285de1161b9b_l-5543432-images-thumbs&n=13);
+    background-image: url(https://media.capital.ro/wp-content/uploads/2021/12/peste.jpg);
     background-blend-mode:hard-light;
-    background-size:cover;
+    background-size: cover;
     background-position: top;
     height: 100vh;
     background-color: rgb(173, 170, 185);
     padding-top: 300px;
-    padding-left: 200px;
+    padding-left: 2px;
     margin-bottom: -32px;
 }
 a{
@@ -72,7 +72,7 @@ div{
     margin-top: -px;
     
     padding: px;
-    padding-top: 10px;
+    padding-top: px;
     
 }
 .Card1{
@@ -109,8 +109,10 @@ div{
     .Card2{
         margin-top: 50%;
     }
-    .Call{
+    .Cards{
         margin-left: 10px;
+        margin-bottom: 20px;
+        width: 100px;
     }
     a{
     margin-left: 30vw;
